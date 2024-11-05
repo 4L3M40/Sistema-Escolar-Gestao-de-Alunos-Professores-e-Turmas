@@ -9,7 +9,7 @@ import org.senai.model.Turma;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] ignoredArgs) {
         // Criando os DAOs
         AlunoDAO alunoDAO = new AlunoDAO();
         ProfessorDAO professorDAO = new ProfessorDAO();
