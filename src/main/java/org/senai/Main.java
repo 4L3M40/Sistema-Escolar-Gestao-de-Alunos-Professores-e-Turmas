@@ -8,6 +8,7 @@ import org.senai.model.Professor;
 import org.senai.model.Turma;
 
 public class Main {
+
     public static void main(String[] args) {
         // Criando os DAOs
         AlunoDAO alunoDAO = new AlunoDAO();
