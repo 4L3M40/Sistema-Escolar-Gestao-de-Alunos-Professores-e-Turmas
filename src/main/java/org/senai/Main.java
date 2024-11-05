@@ -28,7 +28,7 @@ public class Main {
         // Criando e inserindo 3 alunos
         Aluno aluno1 = new Aluno(1, "Evandro Wagenckncht", 1, 4.5);
         Aluno aluno2 = new Aluno(2, "Christofer Pfeiffer", 1, 7.0);
-        Aluno aluno3 = new Aluno(3, "Dante Moon", 2, 8.0);
+        Aluno aluno3 = new Aluno(3, "Eduardo Baldo", 2, 8.0);
         alunoDAO.insert(aluno1);
         alunoDAO.insert(aluno2);
         alunoDAO.insert(aluno3);
