@@ -39,8 +39,6 @@ O banco de dados é gerido pelo **MySQL** e contém três tabelas principais:
 Para configurar o banco de dados, utilize os seguintes comandos SQL para criar as tabelas necessárias:
 
 
- ## Como Executar o Projeto
-
 ### Pré-requisitos
 - **MySQL** instalado e rodando na sua máquina local ou servidor.
 - Um banco de dados chamado `escola` deve ser criado.
