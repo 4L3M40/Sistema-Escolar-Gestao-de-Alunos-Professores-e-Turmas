@@ -52,5 +52,5 @@ Para configurar o banco de dados, utilize os seguintes comandos SQL para criar a
 
   ## Observações Finais
 Este sistema é um projeto simples de gestão escolar, com foco em organização e persistência de dados. Ele pode ser facilmente expandido com novos recursos e funcionalidades, 
-como matrículas, cursos e avaliações. A estrutura de banco de dados foi planejada para ser flexível e suportar futuras modificações sem comprometer a integridade dos dados.
+como matrículas, cursos e avaliações. A estrutura de banco de dados foi planejada para ser flexível e suportar futuras modificações sem comprometer a integridade dos dados
 
